@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/app-pizza/static/js/main.e5eff0b0.chunk.js",
+    "main.js.map": "/app-pizza/static/js/main.e5eff0b0.chunk.js.map",
+    "runtime-main.js": "/app-pizza/static/js/runtime-main.ca933924.js",
+    "runtime-main.js.map": "/app-pizza/static/js/runtime-main.ca933924.js.map",
+    "static/js/2.0aba9711.chunk.js": "/app-pizza/static/js/2.0aba9711.chunk.js",
+    "static/js/2.0aba9711.chunk.js.map": "/app-pizza/static/js/2.0aba9711.chunk.js.map",
+    "static/js/3.1d570e88.chunk.js": "/app-pizza/static/js/3.1d570e88.chunk.js",
+    "static/js/3.1d570e88.chunk.js.map": "/app-pizza/static/js/3.1d570e88.chunk.js.map",
+    "index.html": "/app-pizza/index.html",
+    "static/js/2.0aba9711.chunk.js.LICENSE.txt": "/app-pizza/static/js/2.0aba9711.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/app-pizza/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/app-pizza/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/app-pizza/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/app-pizza/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/app-pizza/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/app-pizza/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/app-pizza/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/app-pizza/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca933924.js",
+    "static/js/2.0aba9711.chunk.js",
+    "static/js/main.e5eff0b0.chunk.js"
+  ]
+}
